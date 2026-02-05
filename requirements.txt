@@ -1,0 +1,10 @@
+yfinance
+streamlit
+pandas
+numpy
+altair
+plotly
+watchdog
+scikit-learn
+rapidfuzz
+scipy
